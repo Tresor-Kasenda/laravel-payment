@@ -14,7 +14,7 @@ Application Laravel 12 pour la gestion d'articles de blog avec paiement et abonn
 1. Cloner le projet puis entrer dans le dossier:
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/Tresor-Kasenda/laravel-payment.git
 cd laravel-payment
 ```
 
